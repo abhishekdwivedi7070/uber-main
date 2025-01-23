@@ -8,7 +8,6 @@ const Page = () => {
   console.log("Hello");
 
   return <Redirect href="/(auth)/welcome" />;
-  console.log("Hello 2");
 };
 
 export default Page;
